@@ -1,0 +1,25 @@
+:root {
+    --goy-reng:#27445c;
+}
+
+
+.inspiring {
+    background: var(--goy-reng);
+    color:#fff;
+    width: 60%;
+    margin: 40px auto;
+
+    /* 1rem 16px */
+    height: 218px;
+    border-radius: 30px;
+
+    position: relative;
+}
+
+
+.bottom-left {
+    position: absolute;
+    bottom: -19px;
+    left: -34px;
+}
+
